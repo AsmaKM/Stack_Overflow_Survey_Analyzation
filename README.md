@@ -1,3 +1,3 @@
 # Stack_Overflow_Survey_Analyzation
 
-Data ANALYXT Capstone Project
+Data Analyst Capstone Project
