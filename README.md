@@ -1,3 +1,1 @@
-# Stack_Overflow_Survey_Analyzation
-
-Data Analyst Capstone Project
+[projectDescription.docx](https://github.com/user-attachments/files/25457372/projectDescription.docx)
