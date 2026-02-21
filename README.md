@@ -1,9 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-[projectDescription.docx](https://github.com/user-attachments/files/25457372/projectDescription.docx)
-=======
-=======
->>>>>>> Stashed changes
 📊 Stack Overflow Developer Survey – Data Analysis & Dashboard
 
 🔎 Project Overview
@@ -125,9 +119,4 @@ Data cleaning and validation skills
 Trend analysis & comparative analytics
 Dashboard design & stakeholder reporting
 Business-oriented data storytelling
-<<<<<<< Updated upstream
 Ability to convert raw survey data into actionable insights
->>>>>>> Stashed changes
-=======
-Ability to convert raw survey data into actionable insights
->>>>>>> Stashed changes
